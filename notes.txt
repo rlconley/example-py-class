@@ -1,0 +1,19 @@
+How to represent amps
+What identifying characteristics does an amp have
+
+- color(s)
+    - string
+    - default = 'black'
+- wattage
+    - Integer
+- tube/solid state
+    - Boolean
+- speaker size
+    - Integer
+    - default = 10
+- make
+    - string
+- model
+    - string
+- ohms
+    - Float
